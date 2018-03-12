@@ -15,9 +15,9 @@ All the Weekly tasks Programming and Scripting Python
   * Exercise(euler.py) - Please complete the following exercise this week. It is problem 5 from Project Euler. The problem is as follows. 2,520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder. Write a Python program using for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20. Add your answer to your GitHub repository.
 
 
-# Week 5 (12-02-2018 to 18-02-2018)
+# Week 5 (19-02-2018 to 25-02-2018)
   * Exercise(irisr.py) - Write a Python script that reads the Iris data set in and prints the four numerical values on each row in a nice format. That is, on the screen should be printed the petal length, petal width, sepal length and sepal width, and these values should have the decimal places aligned, with a space between the columns.
   
   
-  # Week 6 (12-02-2018 to 18-02-2018)
-  * Exercise(irisr.py) - Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. You should, in your script, test the function by calling it with the values 5, 7, and 10.
+  # Week 6 (26-02-2018 to 04-03-2018 / 05-03-2018 to 11-03-2018)
+  * Exercise(.py) - Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. You should, in your script, test the function by calling it with the values 5, 7, and 10.
